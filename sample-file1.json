@@ -1,0 +1,63 @@
+[
+{
+    "id": 1001,
+    "name": "Jaya Laxmi",
+    "email": "jaya@example.com",
+    "phone": "+1-555-1234",
+    "address": {
+		"street": "123 Main St",
+		"City": "Kukatpalli",
+	    "Zip": 516502
+	           },
+    "activity": "Logged in"
+    },
+    {
+    "id": 1002,
+    "name": "Jane Smitha",
+    "email": "janesmitha@example.com",
+    "phone": "+1-555-5678",
+    "address":{
+	    "street": "125 Sub St",
+		"City": "Jntu",
+	    "Zip": 516005
+	          },
+    "activity": "Purchased item"
+    },
+    {
+    "id": 1003,
+    "name": "Ravi Varma",
+    "email": "ravi@example.com",
+    "phone": "+1-555-9876",
+    "address": {
+		"street": "127 Sub St",
+		"City": "Madhapur",
+	    "Zip": 516003
+	           },
+    "activity": "Updated profile"
+    },
+    {
+    "id": 1004,
+    "name": "Baby shaliny",
+    "email": "baby@example.com",
+    "phone": "+1-555-4321",
+    "address": {
+		"street": "123 Main St",
+		"City": "SrNagar",
+	    "Zip": 516102
+	           },
+	
+    "activity": "Added to cart"
+    },
+    {
+    "id": 1005,
+    "name": "Chari Vignesh",
+    "email": "chari@example.com",
+    "phone": "+1-555-8765",
+    "address": {
+		"street": "123 Sub St",
+		"City": "Hitech-City",
+	    "Zip": 516002
+	           },
+    "activity": "Logged out"
+}
+]

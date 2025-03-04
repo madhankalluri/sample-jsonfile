@@ -1,0 +1,1002 @@
+[
+    {
+        "airline": "Frontier",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 14:46:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 11:12:23",
+        "flight_id": "FL4231",
+        "passenger_count": 213,
+        "price": 221.13
+    },
+    {
+        "airline": "United",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 21:39:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 19:06:23",
+        "flight_id": "FL8697",
+        "passenger_count": 169,
+        "price": 870.55
+    },
+    {
+        "airline": "Frontier",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 12:39:23",
+        "departure_city": "Los Angeles",
+        "departure_time": "2025-02-14 10:18:23",
+        "flight_id": "FL7104",
+        "passenger_count": 156,
+        "price": 188.0
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 17:37:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 13:32:23",
+        "flight_id": "FL1493",
+        "passenger_count": 216,
+        "price": 177.09
+    },
+    {
+        "airline": "Delta",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 16:57:23",
+        "departure_city": "Chicago",
+        "departure_time": "2025-02-14 14:48:23",
+        "flight_id": "FL8143",
+        "passenger_count": 101,
+        "price": 917.92
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Houston",
+        "arrival_time": "2025-02-14 13:33:23",
+        "departure_city": "Chicago",
+        "departure_time": "2025-02-14 12:23:23",
+        "flight_id": "FL8891",
+        "passenger_count": 94,
+        "price": 924.67
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 12:17:23",
+        "departure_city": "Los Angeles",
+        "departure_time": "2025-02-14 10:23:23",
+        "flight_id": "FL9709",
+        "passenger_count": 171,
+        "price": 696.2
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Houston",
+        "arrival_time": "2025-02-14 18:48:23",
+        "departure_city": "Chicago",
+        "departure_time": "2025-02-14 16:19:23",
+        "flight_id": "FL4840",
+        "passenger_count": 218,
+        "price": 627.55
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 13:52:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 12:39:23",
+        "flight_id": "FL6070",
+        "passenger_count": 154,
+        "price": 927.36
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 16:20:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 15:12:23",
+        "flight_id": "FL8832",
+        "passenger_count": 103,
+        "price": 861.71
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 19:50:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 17:21:23",
+        "flight_id": "FL4770",
+        "passenger_count": 144,
+        "price": 244.02
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "Dallas",
+        "arrival_time": "2025-02-14 22:06:23",
+        "departure_city": "San Francisco",
+        "departure_time": "2025-02-14 18:00:23",
+        "flight_id": "FL5898",
+        "passenger_count": 145,
+        "price": 971.05
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 19:40:23",
+        "departure_city": "Miami",
+        "departure_time": "2025-02-14 14:43:23",
+        "flight_id": "FL8787",
+        "passenger_count": 71,
+        "price": 163.42
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "New York",
+        "arrival_time": "2025-02-14 17:48:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 15:16:23",
+        "flight_id": "FL4757",
+        "passenger_count": 199,
+        "price": 426.63
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 22:21:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 19:30:23",
+        "flight_id": "FL1899",
+        "passenger_count": 266,
+        "price": 617.04
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 21:15:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 18:25:23",
+        "flight_id": "FL7768",
+        "passenger_count": 174,
+        "price": 734.14
+    },
+    {
+        "airline": "United",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 18:29:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 14:22:23",
+        "flight_id": "FL3689",
+        "passenger_count": 165,
+        "price": 390.6
+    },
+    {
+        "airline": "United",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 17:56:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 15:32:23",
+        "flight_id": "FL6312",
+        "passenger_count": 292,
+        "price": 132.17
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 23:09:23",
+        "departure_city": "San Francisco",
+        "departure_time": "2025-02-14 19:13:23",
+        "flight_id": "FL9117",
+        "passenger_count": 160,
+        "price": 447.76
+    },
+    {
+        "airline": "United",
+        "arrival_city": "Houston",
+        "arrival_time": "2025-02-14 15:21:23",
+        "departure_city": "Los Angeles",
+        "departure_time": "2025-02-14 12:32:23",
+        "flight_id": "FL2183",
+        "passenger_count": 111,
+        "price": 389.0
+    },
+    {
+        "airline": "Delta",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 17:51:23",
+        "departure_city": "Seattle",
+        "departure_time": "2025-02-14 13:10:23",
+        "flight_id": "FL4357",
+        "passenger_count": 75,
+        "price": 955.74
+    },
+    {
+        "airline": "United",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 21:03:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 17:35:23",
+        "flight_id": "FL5632",
+        "passenger_count": 255,
+        "price": 878.47
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 19:16:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 14:47:23",
+        "flight_id": "FL1703",
+        "passenger_count": 226,
+        "price": 348.64
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "Miami",
+        "arrival_time": "2025-02-14 21:18:23",
+        "departure_city": "San Francisco",
+        "departure_time": "2025-02-14 19:01:23",
+        "flight_id": "FL3133",
+        "passenger_count": 253,
+        "price": 627.14
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "New York",
+        "arrival_time": "2025-02-14 13:12:23",
+        "departure_city": "San Francisco",
+        "departure_time": "2025-02-14 10:20:23",
+        "flight_id": "FL3108",
+        "passenger_count": 128,
+        "price": 633.87
+    },
+    {
+        "airline": "United",
+        "arrival_city": "New York",
+        "arrival_time": "2025-02-14 21:00:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 17:34:23",
+        "flight_id": "FL6286",
+        "passenger_count": 224,
+        "price": 778.38
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 20:57:23",
+        "departure_city": "Los Angeles",
+        "departure_time": "2025-02-14 15:59:23",
+        "flight_id": "FL3643",
+        "passenger_count": 136,
+        "price": 397.87
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Miami",
+        "arrival_time": "2025-02-14 15:13:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 10:43:23",
+        "flight_id": "FL6875",
+        "passenger_count": 76,
+        "price": 574.23
+    },
+    {
+        "airline": "Frontier",
+        "arrival_city": "Seattle",
+        "arrival_time": "2025-02-14 13:16:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 11:28:23",
+        "flight_id": "FL9637",
+        "passenger_count": 254,
+        "price": 930.29
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 19:46:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 15:23:23",
+        "flight_id": "FL9578",
+        "passenger_count": 89,
+        "price": 670.21
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 22:37:23",
+        "departure_city": "Seattle",
+        "departure_time": "2025-02-14 18:07:23",
+        "flight_id": "FL5872",
+        "passenger_count": 272,
+        "price": 332.09
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 17:22:23",
+        "departure_city": "Chicago",
+        "departure_time": "2025-02-14 16:13:23",
+        "flight_id": "FL7059",
+        "passenger_count": 189,
+        "price": 517.6
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 18:57:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 16:19:23",
+        "flight_id": "FL1738",
+        "passenger_count": 97,
+        "price": 777.05
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 15:02:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 10:44:23",
+        "flight_id": "FL5225",
+        "passenger_count": 286,
+        "price": 369.56
+    },
+    {
+        "airline": "Frontier",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 20:38:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 15:53:23",
+        "flight_id": "FL1511",
+        "passenger_count": 97,
+        "price": 355.32
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 16:23:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 13:52:23",
+        "flight_id": "FL8397",
+        "passenger_count": 149,
+        "price": 835.65
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 16:58:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 11:59:23",
+        "flight_id": "FL8939",
+        "passenger_count": 216,
+        "price": 824.05
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Seattle",
+        "arrival_time": "2025-02-14 21:01:23",
+        "departure_city": "Los Angeles",
+        "departure_time": "2025-02-14 17:59:23",
+        "flight_id": "FL9710",
+        "passenger_count": 158,
+        "price": 834.12
+    },
+    {
+        "airline": "United",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 15:27:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 10:48:23",
+        "flight_id": "FL1506",
+        "passenger_count": 283,
+        "price": 399.82
+    },
+    {
+        "airline": "United",
+        "arrival_city": "Miami",
+        "arrival_time": "2025-02-14 22:23:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 17:48:23",
+        "flight_id": "FL9465",
+        "passenger_count": 264,
+        "price": 948.23
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 15:24:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 12:05:23",
+        "flight_id": "FL7323",
+        "passenger_count": 184,
+        "price": 864.59
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 21:28:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 17:23:23",
+        "flight_id": "FL5090",
+        "passenger_count": 288,
+        "price": 650.37
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 19:29:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 14:39:23",
+        "flight_id": "FL3807",
+        "passenger_count": 199,
+        "price": 722.98
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 19:09:23",
+        "departure_city": "Miami",
+        "departure_time": "2025-02-14 16:33:23",
+        "flight_id": "FL1664",
+        "passenger_count": 69,
+        "price": 625.75
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "New York",
+        "arrival_time": "2025-02-14 18:13:23",
+        "departure_city": "Los Angeles",
+        "departure_time": "2025-02-14 17:13:23",
+        "flight_id": "FL5944",
+        "passenger_count": 248,
+        "price": 686.82
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 17:54:23",
+        "departure_city": "Seattle",
+        "departure_time": "2025-02-14 13:23:23",
+        "flight_id": "FL9737",
+        "passenger_count": 265,
+        "price": 399.75
+    },
+    {
+        "airline": "Frontier",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 13:46:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 10:43:23",
+        "flight_id": "FL5146",
+        "passenger_count": 180,
+        "price": 132.82
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 18:09:23",
+        "departure_city": "Chicago",
+        "departure_time": "2025-02-14 13:34:23",
+        "flight_id": "FL5725",
+        "passenger_count": 284,
+        "price": 919.46
+    },
+    {
+        "airline": "Delta",
+        "arrival_city": "New York",
+        "arrival_time": "2025-02-14 16:41:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 14:40:23",
+        "flight_id": "FL9514",
+        "passenger_count": 228,
+        "price": 733.44
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "New York",
+        "arrival_time": "2025-02-14 17:50:23",
+        "departure_city": "San Francisco",
+        "departure_time": "2025-02-14 15:26:23",
+        "flight_id": "FL2110",
+        "passenger_count": 133,
+        "price": 444.6
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "New York",
+        "arrival_time": "2025-02-14 19:50:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 18:12:23",
+        "flight_id": "FL4220",
+        "passenger_count": 249,
+        "price": 328.13
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 14:01:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 12:03:23",
+        "flight_id": "FL8154",
+        "passenger_count": 90,
+        "price": 967.42
+    },
+    {
+        "airline": "Delta",
+        "arrival_city": "Houston",
+        "arrival_time": "2025-02-14 15:32:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 11:09:23",
+        "flight_id": "FL6331",
+        "passenger_count": 255,
+        "price": 251.71
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 18:30:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 17:28:23",
+        "flight_id": "FL2858",
+        "passenger_count": 112,
+        "price": 341.15
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Miami",
+        "arrival_time": "2025-02-14 17:14:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 14:01:23",
+        "flight_id": "FL2849",
+        "passenger_count": 68,
+        "price": 371.73
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Houston",
+        "arrival_time": "2025-02-14 13:07:23",
+        "departure_city": "Seattle",
+        "departure_time": "2025-02-14 11:53:23",
+        "flight_id": "FL1840",
+        "passenger_count": 179,
+        "price": 834.09
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 16:49:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 12:06:23",
+        "flight_id": "FL6371",
+        "passenger_count": 65,
+        "price": 862.56
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Seattle",
+        "arrival_time": "2025-02-14 21:00:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 18:39:23",
+        "flight_id": "FL5351",
+        "passenger_count": 70,
+        "price": 600.52
+    },
+    {
+        "airline": "United",
+        "arrival_city": "Miami",
+        "arrival_time": "2025-02-14 18:52:23",
+        "departure_city": "Los Angeles",
+        "departure_time": "2025-02-14 17:43:23",
+        "flight_id": "FL4262",
+        "passenger_count": 199,
+        "price": 113.96
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Miami",
+        "arrival_time": "2025-02-14 20:08:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 15:51:23",
+        "flight_id": "FL7529",
+        "passenger_count": 104,
+        "price": 562.53
+    },
+    {
+        "airline": "Delta",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 20:36:23",
+        "departure_city": "Seattle",
+        "departure_time": "2025-02-14 16:36:23",
+        "flight_id": "FL7600",
+        "passenger_count": 278,
+        "price": 484.73
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 21:20:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 18:47:23",
+        "flight_id": "FL4712",
+        "passenger_count": 123,
+        "price": 191.39
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 18:25:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 13:28:23",
+        "flight_id": "FL3357",
+        "passenger_count": 139,
+        "price": 963.26
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 15:16:23",
+        "departure_city": "Los Angeles",
+        "departure_time": "2025-02-14 10:41:23",
+        "flight_id": "FL1388",
+        "passenger_count": 50,
+        "price": 969.83
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Houston",
+        "arrival_time": "2025-02-14 16:22:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 12:31:23",
+        "flight_id": "FL7011",
+        "passenger_count": 125,
+        "price": 413.75
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 16:05:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 12:15:23",
+        "flight_id": "FL8496",
+        "passenger_count": 300,
+        "price": 733.21
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 21:32:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 16:35:23",
+        "flight_id": "FL8679",
+        "passenger_count": 208,
+        "price": 640.23
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Miami",
+        "arrival_time": "2025-02-14 13:54:23",
+        "departure_city": "Seattle",
+        "departure_time": "2025-02-14 12:51:23",
+        "flight_id": "FL6400",
+        "passenger_count": 211,
+        "price": 83.13
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 19:09:23",
+        "departure_city": "Chicago",
+        "departure_time": "2025-02-14 18:01:23",
+        "flight_id": "FL9958",
+        "passenger_count": 161,
+        "price": 451.88
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 19:26:23",
+        "departure_city": "Chicago",
+        "departure_time": "2025-02-14 15:41:23",
+        "flight_id": "FL3803",
+        "passenger_count": 226,
+        "price": 343.96
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 23:43:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 19:26:23",
+        "flight_id": "FL7648",
+        "passenger_count": 218,
+        "price": 681.38
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 18:02:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 15:27:23",
+        "flight_id": "FL5042",
+        "passenger_count": 222,
+        "price": 864.79
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Miami",
+        "arrival_time": "2025-02-14 17:08:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 13:13:23",
+        "flight_id": "FL7530",
+        "passenger_count": 248,
+        "price": 753.52
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Houston",
+        "arrival_time": "2025-02-14 15:25:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 13:53:23",
+        "flight_id": "FL9420",
+        "passenger_count": 260,
+        "price": 806.31
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Dallas",
+        "arrival_time": "2025-02-14 22:39:23",
+        "departure_city": "San Francisco",
+        "departure_time": "2025-02-14 18:02:23",
+        "flight_id": "FL7978",
+        "passenger_count": 88,
+        "price": 303.62
+    },
+    {
+        "airline": "United",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 20:20:23",
+        "departure_city": "Chicago",
+        "departure_time": "2025-02-14 18:43:23",
+        "flight_id": "FL8608",
+        "passenger_count": 226,
+        "price": 423.25
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 15:29:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 11:44:23",
+        "flight_id": "FL7047",
+        "passenger_count": 173,
+        "price": 787.74
+    },
+    {
+        "airline": "Delta",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 19:15:23",
+        "departure_city": "Miami",
+        "departure_time": "2025-02-14 14:56:23",
+        "flight_id": "FL6768",
+        "passenger_count": 67,
+        "price": 105.58
+    },
+    {
+        "airline": "United",
+        "arrival_city": "Houston",
+        "arrival_time": "2025-02-14 22:05:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 18:16:23",
+        "flight_id": "FL5144",
+        "passenger_count": 227,
+        "price": 763.8
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 18:05:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 16:36:23",
+        "flight_id": "FL9830",
+        "passenger_count": 54,
+        "price": 780.21
+    },
+    {
+        "airline": "United",
+        "arrival_city": "Houston",
+        "arrival_time": "2025-02-14 16:24:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 12:25:23",
+        "flight_id": "FL5723",
+        "passenger_count": 288,
+        "price": 600.96
+    },
+    {
+        "airline": "Frontier",
+        "arrival_city": "Dallas",
+        "arrival_time": "2025-02-14 12:32:23",
+        "departure_city": "San Francisco",
+        "departure_time": "2025-02-14 10:17:23",
+        "flight_id": "FL6669",
+        "passenger_count": 270,
+        "price": 335.26
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "Seattle",
+        "arrival_time": "2025-02-14 16:27:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 11:41:23",
+        "flight_id": "FL6099",
+        "passenger_count": 145,
+        "price": 284.81
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "San Francisco",
+        "arrival_time": "2025-02-14 18:51:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 17:47:23",
+        "flight_id": "FL7047",
+        "passenger_count": 143,
+        "price": 633.93
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Dallas",
+        "arrival_time": "2025-02-14 13:00:23",
+        "departure_city": "Miami",
+        "departure_time": "2025-02-14 11:36:23",
+        "flight_id": "FL2621",
+        "passenger_count": 109,
+        "price": 801.58
+    },
+    {
+        "airline": "Frontier",
+        "arrival_city": "Miami",
+        "arrival_time": "2025-02-14 14:48:23",
+        "departure_city": "Chicago",
+        "departure_time": "2025-02-14 10:17:23",
+        "flight_id": "FL6828",
+        "passenger_count": 106,
+        "price": 615.38
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 11:42:23",
+        "departure_city": "San Francisco",
+        "departure_time": "2025-02-14 10:04:23",
+        "flight_id": "FL6445",
+        "passenger_count": 293,
+        "price": 935.11
+    },
+    {
+        "airline": "Frontier",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 20:33:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 19:14:23",
+        "flight_id": "FL8032",
+        "passenger_count": 176,
+        "price": 505.53
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 17:45:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 13:44:23",
+        "flight_id": "FL5255",
+        "passenger_count": 178,
+        "price": 263.0
+    },
+    {
+        "airline": "JetBlue",
+        "arrival_city": "Chicago",
+        "arrival_time": "2025-02-14 17:29:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 15:40:23",
+        "flight_id": "FL5952",
+        "passenger_count": 101,
+        "price": 633.95
+    },
+    {
+        "airline": "Delta",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 17:05:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 13:03:23",
+        "flight_id": "FL6181",
+        "passenger_count": 93,
+        "price": 101.03
+    },
+    {
+        "airline": "Southwest",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 16:36:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 12:05:23",
+        "flight_id": "FL9664",
+        "passenger_count": 69,
+        "price": 364.05
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 18:10:23",
+        "departure_city": "Chicago",
+        "departure_time": "2025-02-14 13:28:23",
+        "flight_id": "FL7604",
+        "passenger_count": 100,
+        "price": 446.26
+    },
+    {
+        "airline": "United",
+        "arrival_city": "Houston",
+        "arrival_time": "2025-02-14 18:37:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 16:44:23",
+        "flight_id": "FL9935",
+        "passenger_count": 142,
+        "price": 187.17
+    },
+    {
+        "airline": "United",
+        "arrival_city": "Denver",
+        "arrival_time": "2025-02-14 18:31:23",
+        "departure_city": "Houston",
+        "departure_time": "2025-02-14 15:36:23",
+        "flight_id": "FL9146",
+        "passenger_count": 189,
+        "price": 550.87
+    },
+    {
+        "airline": "Alaska",
+        "arrival_city": "Miami",
+        "arrival_time": "2025-02-14 16:41:23",
+        "departure_city": "New York",
+        "departure_time": "2025-02-14 14:04:23",
+        "flight_id": "FL9665",
+        "passenger_count": 283,
+        "price": 930.65
+    },
+    {
+        "airline": "American Airlines",
+        "arrival_city": "New York",
+        "arrival_time": "2025-02-14 15:00:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 11:14:23",
+        "flight_id": "FL2390",
+        "passenger_count": 94,
+        "price": 90.29
+    },
+    {
+        "airline": "Spirit",
+        "arrival_city": "Los Angeles",
+        "arrival_time": "2025-02-14 16:01:23",
+        "departure_city": "Boston",
+        "departure_time": "2025-02-14 12:01:23",
+        "flight_id": "FL8940",
+        "passenger_count": 219,
+        "price": 968.62
+    },
+    {
+        "airline": "United",
+        "arrival_city": "New York",
+        "arrival_time": "2025-02-14 17:51:23",
+        "departure_city": "Dallas",
+        "departure_time": "2025-02-14 13:52:23",
+        "flight_id": "FL7691",
+        "passenger_count": 63,
+        "price": 925.02
+    },
+    {
+        "airline": "Frontier",
+        "arrival_city": "Boston",
+        "arrival_time": "2025-02-14 15:51:23",
+        "departure_city": "Denver",
+        "departure_time": "2025-02-14 11:50:23",
+        "flight_id": "FL4206",
+        "passenger_count": 57,
+        "price": 600.43
+    }
+]
