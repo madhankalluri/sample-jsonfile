@@ -48,6 +48,19 @@
 	
     "activity": "Added to cart"
     },
+	{
+    "id": 1006,
+    "name": "Baby shahithy",
+    "email": "babysahi@example.com",
+    "phone": "+1-555-1234",
+    "address": {
+		"street": "124 Main St",
+		"City": "SrNagar",
+	    "Zip": 516103
+	           },
+	
+    "activity": "Added to cart"
+    },
     {
     "id": 1005,
     "name": "Chari Vignesh",
